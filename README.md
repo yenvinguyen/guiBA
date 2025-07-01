@@ -17,7 +17,7 @@ Tất cả chỉnh sửa bạn cần làm đều nằm trong file script.js. Là
 
 ---
 
-## 3. 📝 Thay Text ở dòng **823**
+## 3. 📝 Thay Nhạc ở dòng **823**
 - Tìm tới dòng **823** trong  script.js
 - Thêm các link nhạc tùy ae.
 
